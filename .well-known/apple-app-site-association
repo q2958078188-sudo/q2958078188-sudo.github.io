@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["6FA8PFP7M6.com.heyuanqiu.DaveRayBan"],
+        "components": [
+          {
+            "/": "*",
+            "comment": "match all paths for DaveRayBan universal links"
+          }
+        ]
+      }
+    ]
+  }
+}
